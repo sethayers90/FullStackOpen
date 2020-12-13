@@ -1,0 +1,2 @@
+Exercise:
+The JSON took the request straight from the JS form. Thus, the only request sent or recieved would be whatever the user sent.
